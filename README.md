@@ -1,6 +1,6 @@
 # bot-generator-account
 
-
+ce bot est un bot générateur de compte qui a la base à était cree pour le serveur light Gen mais aujourd'hui je vous offre la source du bot
 
 
 
