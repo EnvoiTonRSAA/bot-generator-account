@@ -26,9 +26,12 @@ N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le pr
 
 # Installation
 
+* n'oublier pas de unzip le fichier 
+
 ° installer [node.js](https://nodejs.org/fr/download)
 
 ° rendez-vous dans le fichier config.json remplisser token et toutes les id demander etc ...
+
 
 ° enfin lancer le start.bat
 
