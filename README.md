@@ -1,6 +1,6 @@
 # bot-generator-account
 
-soon
+N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 
 
 # test
