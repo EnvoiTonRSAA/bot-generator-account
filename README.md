@@ -1,5 +1,9 @@
 # bot-generator-account
 
+
+
+
+
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 
 
@@ -22,5 +26,11 @@ N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le pr
 
 # Installation
 
+° installer [node.js](https://nodejs.org/fr/download)
+
+° rendez-vous dans le fichier config.json remplisser token et toutes les id demander etc ...
+
+° enfin lancer le start.bat
 
 
+pour tout problème ou question ajouter moi sur discord : envoitonrsaa
