@@ -33,7 +33,9 @@ N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le pr
 ° rendez-vous dans le fichier config.json remplisser token et toutes les id demander etc ...
 
 
-° enfin lancer le start.bat
+° enfin lancer le requirments.bat 
+
+° puis le start.bat
 
 
 pour tout problème ou question ajouter moi sur discord : envoitonrsaa
