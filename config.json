@@ -1,0 +1,18 @@
+{
+    "token":"MTEwNTYwMzI2NzUyMzc3MjQxNw.GkOvBJ.UNDBl2ywrHDHmmLxwbTQ18y_gYl05q-oDA5G2Y",
+    "prefix":"+",
+    "activity": "ACTIVITY-HERE" ,
+    "log_channel": null ,
+    "name": "NAME OF THE SERVER",
+    "VIP_role":["id vip roles",""],
+    "gen_channels":["id channels gen",""],
+    "VIP_NB":0, 
+    "fourni_ROLE":["id fourni roles",""],
+    "owner_ROLE":["id owner roles",""],
+    "ping_role":"id roles ping restock",
+    "channel_ping":"channel id for ping restock",
+    "emote":"972149653694996560",
+    "GenCooldown": "3600000",
+    "webhook":"webhook restock salon here", 
+    "avatar":""
+}
