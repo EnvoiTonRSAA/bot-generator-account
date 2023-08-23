@@ -38,4 +38,4 @@ N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le pr
 ° puis le start.bat
 
 
-pour tout problème ou question ajouter moi sur discord : envoitonrsaa
+pour tout problème ou question ajouter moi sur discord : envoitonrsa
