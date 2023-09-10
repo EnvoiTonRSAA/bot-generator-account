@@ -29,7 +29,7 @@ client.on('ready', () => {
     console.log(`Bot Online`);
     console.log("Bot Prefix is:", config.prefix)
     console.log("Logged in as:", client.user.tag)
-    console.log("discord : envoitonrsaa")
+    console.log("discord : envoitonrsa")
     console.log("https://discord.gg/2a5qyc3nZN")
 });
 
